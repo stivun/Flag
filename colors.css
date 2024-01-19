@@ -1,0 +1,22 @@
+body {
+    display: block;
+    margin: 0px;
+    background-color: rgb(83, 106, 118);
+}
+
+.white {
+
+    background: white;
+    height: 100px;
+    ;
+}
+
+.green {
+    background: green;
+    height: 100px;
+}
+
+.red {
+    background: red;
+    height: 100px;
+}
